@@ -1,5 +1,6 @@
 var PLAY = 1;
 var END = 0;
+var hello;
 var gameState = PLAY;
 
 var dies,jumps,checkpoints;
